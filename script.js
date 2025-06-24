@@ -49,3 +49,6 @@ document.querySelector('.again').addEventListener('click', function () {
   document.querySelector('body').style.backgroundColor = '#222';
   document.querySelector('.number').style.width = '15rem';
 });
+document.getElementById('Next-side').addEventListener('click', function () {
+  window.location.href = 'v2.html';
+});

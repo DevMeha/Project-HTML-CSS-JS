@@ -117,3 +117,10 @@ h1 {
 .label-score {
   margin-bottom: 2rem;
 }
+.Next-project {
+  position: absolute;
+  left: 30rem;
+  top: 2rem;
+}
+.Next-project-div {
+}
